@@ -1,0 +1,1 @@
+Decoding HEIC images in JS is stupid. Is making a server in go to decode them in go more stupid? My hypothesis is that it's not, but I'll try it out and see. Surely it'll be less painful than using libheif compiled with webassembly.

@@ -1,0 +1,5 @@
+curl -X POST http://localhost:8090/convert --data-binary "@./test/1.heic" > "./test/1.png"
+curl -X POST http://localhost:8090/convert --data-binary "@./test/2.heic" > "./test/2.png"
+curl -X POST http://localhost:8090/convert --data-binary "@./test/3.heic" > "./test/3.png"
+curl -X POST http://localhost:8090/convert --data-binary "@./test/4.heic" > "./test/4.png"
+curl -X POST http://localhost:8090/convert > "./test/5.png"
