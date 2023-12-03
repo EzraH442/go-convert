@@ -1,2 +1,6 @@
+github.com/strukturag/libheif v1.15.1 h1:PWMRTk+9HG0a9avvlV597iI0AdHk25zKVV33lSl6a+I=
+github.com/strukturag/libheif v1.15.1/go.mod h1:E/PNRlmVtrtj9j2AvBZlrO4dsBDu6KfwDZn7X1Ce8Ks=
 github.com/strukturag/libheif v1.15.2 h1:pgdcpDHqtLKRXL9ETSTeht0CsJODB3BojpTsb3S/3Wg=
 github.com/strukturag/libheif v1.15.2/go.mod h1:E/PNRlmVtrtj9j2AvBZlrO4dsBDu6KfwDZn7X1Ce8Ks=
+github.com/strukturag/libheif v1.17.5 h1:1bdg2UNmiyfRslNvZIZ7nMRMBhr8C/57bZORz3Wvg8o=
+github.com/strukturag/libheif v1.17.5/go.mod h1:E/PNRlmVtrtj9j2AvBZlrO4dsBDu6KfwDZn7X1Ce8Ks=
