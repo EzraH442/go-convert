@@ -8,9 +8,9 @@ COPY go.mod go.sum ./
 RUN go mod download
 COPY *.go ./
 # Build
-RUN GOOS=linux go build -o ./build/server.go
+RUN go build -o ./build/server
 
 EXPOSE 8090
 
 # Run
-CMD ["./build/server.go"]
+CMD ["./build/server"]
