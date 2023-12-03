@@ -1,6 +1,8 @@
 FROM golang:1.21.4
 WORKDIR /app
 
+RUN apt-get update && apt-get -y install libheif-dev
+
 COPY go.mod go.sum ./
 
 RUN go mod download
